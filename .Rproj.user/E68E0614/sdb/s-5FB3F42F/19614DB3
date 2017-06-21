@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "##Test-Git/GİtHub##\n\ninstalled.packages(\"ggplot2\")\nlibrary(ggplot2)\ndata(\"diamonds\")\nhead(diamonds)\nplot(diamonds$price)\n\ndjhfbsfgş.jutgkfköhjö",
+    "contents" : "##Test-Git/GİtHub##\n\ninstalled.packages(\"ggplot2\")\nlibrary(ggplot2)\ndata(\"diamonds\")\nhead(diamonds)\nplot(diamonds$price)\n\n\nDamlalalalala",
     "created" : 1498033573772.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1287316140",
+    "hash" : "2501295807",
     "id" : "19614DB3",
-    "lastKnownWriteTime" : 1498044282,
-    "last_content_update" : 1498044282507,
+    "lastKnownWriteTime" : 1498044385,
+    "last_content_update" : 1498044385842,
     "path" : "~/Project1/project1code.R",
     "project_path" : "project1code.R",
     "properties" : {

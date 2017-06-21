@@ -5,3 +5,6 @@ library(ggplot2)
 data("diamonds")
 head(diamonds)
 plot(diamonds$price)
+
+
+Damlalalalala
